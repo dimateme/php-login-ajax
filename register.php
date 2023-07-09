@@ -14,17 +14,18 @@ require_once "inc/config.php";
 
     <title>Page Title</title>
 
-
+    <base href="/" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.24/css/uikit.min.css" />
+
 </head>
 
 <body>
 
 <div class="uk-section uk-container">
     <div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
-        <form class="uk-form-stacked js-login">
+        <form class="uk-form-stacked js-register">
 
-            <h2>Login</h2>
+            <h2>Register</h2>
 
             <div class="uk-margin">
                 <label class="uk-form-label" for="form-stacked-text">Email</label>
@@ -39,14 +40,13 @@ require_once "inc/config.php";
                     <input class="uk-input" id="form-stacked-text" type="password" required='required' placeholder="Your Password">
                 </div>
             </div>
-
+            <div class="uk-margin uk-alert uk-alert-danger js-error" style='display: none;'></div>
             <div class="uk-margin">
-                <button class="uk-button uk-button-default" type="submit">Login</button>
+                <button class="uk-button uk-button-default" type="submit">Rgister</button>
             </div>
 
         </form>
     </div>
-</div>
 </div>
 
 <?php require_once "inc/footer.php"; ?>
