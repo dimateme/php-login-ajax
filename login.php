@@ -3,6 +3,7 @@
 define('__CONFIG__', true);
 // Require the config
 require_once "inc/config.php";
+ForceDashboard();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -42,7 +43,7 @@ require_once "inc/config.php";
                     <input class="uk-input" id="form-stacked-text" type="password" required='required' placeholder="Your Password">
                 </div>
             </div>
-
+            <div class="uk-margin uk-alert uk-alert-danger js-error" style='display: none;'></div>
             <div class="uk-margin">
                 <button class="uk-button uk-button-default" type="submit">Login</button>
             </div>

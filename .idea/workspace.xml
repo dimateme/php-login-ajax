@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7611f6-5689-4f08-9116-1c59c3a6c7bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/classes/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/classes/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/classes/Filter.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/classes/Filter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
@@ -81,7 +81,10 @@
       <updated>1688699202997</updated>
       <workItem from="1688699204018" duration="1957000" />
       <workItem from="1688733075580" duration="10280000" />
-      <workItem from="1688857566292" duration="13120000" />
+      <workItem from="1688857566292" duration="17505000" />
+      <workItem from="1688936163921" duration="7588000" />
+      <workItem from="1688994277789" duration="4333000" />
+      <workItem from="1689082621488" duration="5737000" />
     </task>
     <servers />
   </component>
